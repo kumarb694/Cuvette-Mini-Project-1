@@ -1,0 +1,320 @@
+body{
+    width: 1440px;
+    height: 890px;
+}
+.headcontainer{
+    display: flex;
+    background-color: #FFCD9E;
+    
+    /* margin-top: -1px; */
+}
+
+.leftheadcontainer{
+    width: 800px;
+    height: 592px;
+    
+    /* border: 1px solid; */
+    /* margin-top: -1px; */
+}
+.rightheadcontainer{
+    height: 592px;
+    width: 640px;
+    /* border: 1px solid; */
+    /* margin-top: -1px; */
+}
+h1{
+    position: absolute;
+width: 562px;
+height: 108px;
+left: 136px;
+top: 83px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 10000;
+font-size: 36px;
+line-height: 150%;
+}
+.lhp{
+    position: absolute;
+width: 495px;
+height: 81px;
+left: 136px;
+top: 219px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 1000;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+display: flex;
+align-items: center;
+
+color: #484848;
+}
+.bhp{
+    position: absolute;
+width: 227px;
+height: 81px;
+left: 136px;
+top: 315px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+display: flex;
+align-items: center;
+
+color: #282828;
+}
+.ihp{
+    box-sizing: border-box;
+
+position: absolute;
+width: 344px;
+height: 64px;
+left: 136px;
+top: 411px;
+
+background: #FFFFFF;
+border: 4px solid #000000;
+border-radius: 8px;
+}
+.sbp{
+    position: absolute;
+width: 216px;
+height: 64px;
+left: 496px;
+top: 411px;
+
+background: #282828;
+border-radius: 8px;
+}
+#man1{
+    width: 393.52px;
+    height: 442.45px;
+}
+.form
+{
+    display: flex;
+}
+.footcontainer{
+    display: flex;
+    background-color: #282828;
+    justify-content: center;
+    
+}
+
+.leftfootcontainer{
+    height: 298px;
+    width: 800px;
+    
+    /* border: 1px solid; */
+}
+.sbo{
+color: #FFFFFF;
+
+}
+.khg{
+    /* position: absolute; */
+left: 15.98%;
+right: 15.58%;
+top: 11.55%;
+bottom: 11.51%;
+
+/* background: #100F0D; */
+}
+.bng{
+    position: absolute;
+width: 344px;
+height: 61px;
+left: 134px;
+top: 479px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 1000;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+.lfc1{
+    position: absolute;
+width: 216px;
+height: 36px;
+left: 191px;
+top: 654px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #FFFFFF;
+
+}
+.lfc2{
+    position: absolute;
+width: 216px;
+height: 36px;
+left: 191px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #FFFFFF;
+
+}
+.lfc3{
+    position: absolute;
+width: 216px;
+height: 36px;
+left: 191px;
+top: 726px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #FFFFFF;
+}
+.lfc4{
+    position: absolute;
+width: 220px;
+height: 36px;
+left: 191px;
+top: 762px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #FFFFFF;
+
+}
+.lfc5{
+    position: absolute;
+width: 236px;
+height: 36px;
+left: 191px;
+top: 798px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #FFFFFF;
+}
+.lfc6{
+    position: absolute;
+width: 148px;
+height: 36px;
+left: 1099px;
+top: 654px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+text-align: right;
+
+color: #FFFFFF;
+}
+.lfc7{
+    position: absolute;
+width: 232px;
+height: 36px;
+left: 1015px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+text-align: right;
+
+color: #FFFFFF;
+
+}
+.lfc8
+{
+    position: absolute;
+width: 232px;
+height: 36px;
+left: 1015px;
+top: 798px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+text-align: right;
+
+color: #FFFFFF;
+}
+.lim{
+    position: absolute;
+    left: 56.81%;
+    right: 16.37%;
+    top: 77.3%;
+    bottom: 15.49%;
+    
+    border: 3px solid #FFCD9E;
+}
+.insm{
+    position: absolute;
+left: 59.16%;
+right: 13.66%;
+top: 77.3%;
+bottom: 15.44%;
+
+border: 3px solid #FFCD9E;
+}
+.rightfootcontainer{
+    height: 298px;
+    width: 640px;
+    /* justify-content: center; */
+    /* border: 1px solid; */
+}
